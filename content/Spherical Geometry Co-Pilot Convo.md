@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: Spherical Geometry Co-Pilot Convo
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 ## Introduction
 
