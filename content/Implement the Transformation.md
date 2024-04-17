@@ -3,7 +3,6 @@ title: Implement the Transformation
 draft: false
 tags: []
 ---
-
 Implementing the transformation in Blender with Geometry Nodes involves creating a custom node network that applies the desired transformation to your geometry. Here's a step-by-step guide on how to do this:
 
 1. **Open Blender**: Start by opening Blender and opening the project with your environment photoscans.
