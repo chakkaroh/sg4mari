@@ -1,11 +1,9 @@
 ---
 title: Step 6 - Define The Transformation Equation
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 #### Choose a Projection Method:
 
 - First, determine the specific projection method you want to use for your transformation. For this example, let's continue with the stereographic projection method.

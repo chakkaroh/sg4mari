@@ -3,8 +3,6 @@ title: Attribute Nodes
 draft: false
 tags: []
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
 What is an Attribute Node?
 
 1. In Blender, a Geometry Node is like a mini-program that you can use to manipulate the geometry of your 3D model. It’s a way to tell Blender how to change the shapes, positions, and other properties of the vertices, edges, and faces that make up your model.

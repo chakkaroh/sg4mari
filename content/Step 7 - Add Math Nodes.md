@@ -1,11 +1,9 @@
 ---
 title: Step 7 - Add Math Nodes
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 #### Implement the Equation Using Math Nodes:
 - Since you're dealing with a 3D mesh, you'll need to apply the transformation equation to each vertex individually.
 - Use [[Attribute Nodes]] to access the coordinates of each vertex of your mesh.

@@ -1,11 +1,9 @@
 ---
 title: Previous Emails
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 On Fri, Apr 5, 2024 at 2:26 AM coconut talkies <[coconuttalkies@gmail.com](mailto:coconuttalkies@gmail.com)> wrote:  
 
 > Dear CP,

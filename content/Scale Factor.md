@@ -1,11 +1,9 @@
 ---
 title: Scale Factor
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+
 What is the Scale Factor ?  
 
 1. The scale factor is a value that you use to change the size of an object. In the context of hyperbolic geometry, the scale factor is used to adjust the size of an object based on the curvature of the space.
